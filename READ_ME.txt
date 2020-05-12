@@ -6,7 +6,7 @@ In order for the whole validation to run there must be these files in the same f
 
 1) GSR.csv : must contain the column 'SMS ID', any column with a two digit number on ots name will be assumed to be an index
 
-2) plan.csv : Must contain the columns 'SMS ID' , 'Activity Local Name' , 'Associate Cdar ID'
+2) plan.xls : Must contain the columns 'SMS ID' , 'Activity Local Name' , 'Associate Cdar ID', 'Frequency'
 
 3) AI.sqlite
 
